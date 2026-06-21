@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MintKill
+Comment=Force-quit frozen applications (X11/Wayland)
+Icon=mintkill
+Exec=mintkill.py
+Categories=Utility;
+Terminal=false
